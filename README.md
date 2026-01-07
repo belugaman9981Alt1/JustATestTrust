@@ -1,2 +1,2 @@
 # JustATestTrust
-Just a Test Trust
+Just a Test Trust 
